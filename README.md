@@ -3,6 +3,8 @@ Bomberman
 
 Bomberman-like game, multiplayer, written in C using the SDL library
 
+###Compile & Run###
+`make all` and `./Bomberman`
 
 ###Keys###
 ####Main menu####
